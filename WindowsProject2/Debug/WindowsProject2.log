@@ -1,0 +1,10 @@
+﻿WindowsProject2.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwInit в функции "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+WindowsProject2.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwTerminate в функции "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+WindowsProject2.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwCreateWindow в функции "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+WindowsProject2.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwWindowShouldClose в функции "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+WindowsProject2.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwPollEvents в функции "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+WindowsProject2.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwMakeContextCurrent в функции "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+WindowsProject2.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSwapBuffers в функции "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+C:\Users\user\source\repos\WindowsProject2\Dependencies\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\user\source\repos\WindowsProject2\Dependencies\GLEW\lib\Release\x64\glew32s.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\user\source\repos\WindowsProject2\Debug\WindowsProject2.exe : fatal error LNK1120: неразрешенных внешних элементов: 7

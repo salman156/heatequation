@@ -1,0 +1,5 @@
+﻿  WindowsProject2.cpp
+B:\Visual Studio Projects\WindowsProject2\WindowsProject2\WindowsProject2.cpp(172,27): warning C4244:  аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  LINK : не найден или не выполнена сборка B:\Visual Studio Projects\WindowsProject2\x64\Debug\WindowsProject2.exe при последней инкрементной компоновке; выполняется полная компоновка
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+  WindowsProject2.vcxproj -> B:\Visual Studio Projects\WindowsProject2\x64\Debug\WindowsProject2.exe
